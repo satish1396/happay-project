@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/happay-project/static/css/main.dd44db07.chunk.css",
+    "main.js": "/happay-project/static/js/main.f93253fe.chunk.js",
+    "main.js.map": "/happay-project/static/js/main.f93253fe.chunk.js.map",
+    "runtime-main.js": "/happay-project/static/js/runtime-main.03118ebf.js",
+    "runtime-main.js.map": "/happay-project/static/js/runtime-main.03118ebf.js.map",
+    "static/js/2.4ef00c17.chunk.js": "/happay-project/static/js/2.4ef00c17.chunk.js",
+    "static/js/2.4ef00c17.chunk.js.map": "/happay-project/static/js/2.4ef00c17.chunk.js.map",
+    "index.html": "/happay-project/index.html",
+    "static/css/main.dd44db07.chunk.css.map": "/happay-project/static/css/main.dd44db07.chunk.css.map",
+    "static/js/2.4ef00c17.chunk.js.LICENSE.txt": "/happay-project/static/js/2.4ef00c17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03118ebf.js",
+    "static/js/2.4ef00c17.chunk.js",
+    "static/css/main.dd44db07.chunk.css",
+    "static/js/main.f93253fe.chunk.js"
+  ]
+}
